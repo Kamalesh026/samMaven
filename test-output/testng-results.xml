@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39038" started-at="2022-10-19T08:37:10Z" finished-at="2022-10-19T08:37:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39038" started-at="2022-10-19T08:37:10Z" finished-at="2022-10-19T08:37:49Z">
+      <class name="org.test.TestNg">
+        <test-method status="PASS" signature="befcls()[pri:0, instance:org.test.TestNg@21507a04]" name="befcls" is-config="true" duration-ms="78" started-at="2022-10-19T08:37:10Z" finished-at="2022-10-19T08:37:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befcls -->
+        <test-method status="PASS" signature="bef()[pri:0, instance:org.test.TestNg@21507a04]" name="bef" is-config="true" duration-ms="12718" started-at="2022-10-19T08:37:10Z" finished-at="2022-10-19T08:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.test.TestNg@21507a04]" name="tc1" duration-ms="1002" started-at="2022-10-19T08:37:23Z" finished-at="2022-10-19T08:37:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="aftmetd()[pri:0, instance:org.test.TestNg@21507a04]" name="aftmetd" is-config="true" duration-ms="1541" started-at="2022-10-19T08:37:24Z" finished-at="2022-10-19T08:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmetd -->
+        <test-method status="PASS" signature="bef()[pri:0, instance:org.test.TestNg@21507a04]" name="bef" is-config="true" duration-ms="10239" started-at="2022-10-19T08:37:26Z" finished-at="2022-10-19T08:37:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.test.TestNg@21507a04]" name="tc2" duration-ms="783" started-at="2022-10-19T08:37:36Z" finished-at="2022-10-19T08:37:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="aftmetd()[pri:0, instance:org.test.TestNg@21507a04]" name="aftmetd" is-config="true" duration-ms="1710" started-at="2022-10-19T08:37:37Z" finished-at="2022-10-19T08:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmetd -->
+        <test-method status="PASS" signature="bef()[pri:0, instance:org.test.TestNg@21507a04]" name="bef" is-config="true" duration-ms="8683" started-at="2022-10-19T08:37:38Z" finished-at="2022-10-19T08:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.test.TestNg@21507a04]" name="tc3" duration-ms="788" started-at="2022-10-19T08:37:47Z" finished-at="2022-10-19T08:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="aftmetd()[pri:0, instance:org.test.TestNg@21507a04]" name="aftmetd" is-config="true" duration-ms="1421" started-at="2022-10-19T08:37:48Z" finished-at="2022-10-19T08:37:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmetd -->
+        <test-method status="PASS" signature="aftercls()[pri:0, instance:org.test.TestNg@21507a04]" name="aftercls" is-config="true" duration-ms="0" started-at="2022-10-19T08:37:49Z" finished-at="2022-10-19T08:37:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftercls -->
+      </class> <!-- org.test.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
